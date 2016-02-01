@@ -1,1 +1,5 @@
 # minabyggnader
+
+Collaborators: 
+	WeeHorse
+	TinyHorse
