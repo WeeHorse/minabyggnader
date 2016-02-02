@@ -8,6 +8,7 @@ Collaborators:
 	FluteHorse
 	BorderHoarder
 	FreeHorse
+	FairShair
 	CruicialFearmonger
 	Catapstrophe
 	PurdyNightinggale
