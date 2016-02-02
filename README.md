@@ -9,6 +9,7 @@ Collaborators:
 	BorderHoarder
 	FreeHorse
 	CruicialFearmonger
+	Catastrophe
 	PurdyNightinggale
 	HobbyHorse
 	TrinityBubbler
