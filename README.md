@@ -5,6 +5,7 @@ Collaborators:
 	BruteHorse
 	TinyHorse
 	FluteHorse
+	BorderHoarder
 	FreeHorse
 	HobbyHorse
 	HidyHo
