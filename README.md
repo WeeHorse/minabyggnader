@@ -9,7 +9,7 @@ Collaborators:
 	BorderHoarder
 	FreeHorse
 	CruicialFearmonger
-	Catastrophe
+	Catapstrophe
 	PurdyNightinggale
 	HobbyHorse
 	TrinityBubbler
