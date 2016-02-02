@@ -8,6 +8,7 @@ Collaborators:
 	FluteHorse
 	BorderHoarder
 	FreeHorse
+	CruicialFearmonger
 	HobbyHorse
 	TrinityBubbler
 	HidyHo
