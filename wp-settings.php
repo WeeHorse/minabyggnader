@@ -10,6 +10,8 @@
  * @package WordPress
  */
 
+define( 'MY_POINTLESS_CONSTANT', 1);
+
 /**
  * Stores the location of the WordPress directory of functions, classes, and core content.
  *
