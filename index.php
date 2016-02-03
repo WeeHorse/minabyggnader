@@ -6,6 +6,8 @@
  * @package WordPress
  */
 
+define( 'MY_CONSTANT_POINTLESS', 1);
+
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
