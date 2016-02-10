@@ -10,3 +10,8 @@ Author: Benjamin Berglund
 Version: 1.0
 */
 
+function mina_byggnader_data($content){
+	return $content;
+}
+
+add_filter('the_content', 'mina_byggnader_data');
