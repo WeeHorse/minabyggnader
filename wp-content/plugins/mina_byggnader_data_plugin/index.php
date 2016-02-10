@@ -11,6 +11,7 @@ Version: 1.0
 */
 
 function mina_byggnader_data($content){
+	$content = $content . '';
 	return $content;
 }
 
